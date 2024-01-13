@@ -1,10 +1,4 @@
-# 基于Springboot的客户管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**客户2** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于Springboot的客户管理系统2
 
 ## 1、项目介绍
 
@@ -31,35 +25,32 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191705270.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202207191705270.jpg)
 
 ### 4.2 客户管理模块
 
-![客户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191705008.jpg)
+![客户管理](https://www.codeshop.fun/Typora-Images/202207191705008.jpg)
 
-![客户类型管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191705415.jpg)
+![客户类型管理](https://www.codeshop.fun/Typora-Images/202207191705415.jpg)
 
-![新增客户](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191705410.jpg)
+![新增客户](https://www.codeshop.fun/Typora-Images/202207191705410.jpg)
 
-![编辑客户信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191705619.jpg)
+![编辑客户信息](https://www.codeshop.fun/Typora-Images/202207191705619.jpg)
 
 ### 4.3充值消费 模块
 
-![消费](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191706636.jpg)
+![消费](https://www.codeshop.fun/Typora-Images/202207191706636.jpg)
 
-![充值](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191706230.jpg)
+![充值](https://www.codeshop.fun/Typora-Images/202207191706230.jpg)
 
-![对账单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191706078.jpg)
+![对账单](https://www.codeshop.fun/Typora-Images/202207191706078.jpg)
 
-![充值记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191706678.jpg)
+![充值记录](https://www.codeshop.fun/Typora-Images/202207191706678.jpg)
 
-![消费记录管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207191706798.jpg)
+![消费记录管理](https://www.codeshop.fun/Typora-Images/202207191706798.jpg)
+## 获取方式
 
-## 5、获取方式
+下方扫一扫关注后，后台回复关键词：**客户**，查看导入教程视频、sql脚本和源码等
 
-扫描下方，回复关键词  ：**客户2** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
